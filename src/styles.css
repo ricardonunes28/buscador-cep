@@ -93,3 +93,18 @@
         min-height: 250px;
     }
 }
+
+@media(max-width: 416px){
+    .title{
+        font-size: 50px;
+    }
+
+    .main h2{
+        font-size: 20px;
+    }
+
+    .main{
+        width: 90%;
+        min-height: 250px;
+    }
+}
